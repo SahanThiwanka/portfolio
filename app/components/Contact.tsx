@@ -15,7 +15,7 @@ export default function Contact() {
           Contact <span className="text-blue-400">Me</span>
         </h2>
         <p className="text-gray-300 mb-8">
-          I'm currently open to new opportunities and collaborations. Feel free to reach out!
+          I&#39;m currently open to new opportunities and collaborations. Feel free to reach out!
         </p>
 
         <div className="flex flex-col items-center gap-4 text-sm">

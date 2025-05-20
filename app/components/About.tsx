@@ -16,7 +16,7 @@ export default function About() {
           About <span className="text-blue-400">Me</span>
         </h2>
         <p className="text-lg text-gray-300 mb-8">
-          I'm a passionate software engineer with experience in building modern
+          I&#39;m a passionate software engineer with experience in building modern
           web and mobile applications. I specialize in{" "}
           <span className="text-white font-semibold">
             Next.js, Tailwind CSS, Flutter, and Blockchain
