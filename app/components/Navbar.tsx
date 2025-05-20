@@ -47,5 +47,3 @@ export default function Navbar() {
     </header>
   );
 }
-git config --global user.name "SahanThiwanka"
-git config --global user.email "sahanthiwanka1234@gmail.com"
